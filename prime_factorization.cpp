@@ -31,9 +31,9 @@ void primeFactor(int n) {
 	}
 }
 
-int main() {
+/*int main() {
 	primeFactor(100);
 	for (int i = 0; i <= len; i++) {
 		cout << f[i] << " " << expo[i] << endl;
 	}
-}
+}*/
