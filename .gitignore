@@ -4,3 +4,4 @@
 *.vcxproj.user
 *.exe
 *.obj
+.vscode/settings.json
